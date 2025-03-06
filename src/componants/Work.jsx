@@ -15,7 +15,7 @@ const Work = () => {
                     <span className='text-2xl font-bold text-white tracking-wider'></span>
                     <div className='pt-8 text-center'>
                         <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                            Live
+                            <a href='https://eloquent-cajeta-f77ef8.netlify.app/'>Live</a>
                         </button>
                     </div>
 
